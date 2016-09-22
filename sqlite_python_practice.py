@@ -1,7 +1,7 @@
 
-#crete dB table in RAM named Roster, include name,species,iq fields
-#populate table with given values, update the species of KD to human
-#display names and iq of humans in dB
+#task: create dB table in RAM named Roster, include name,species,iq fields.
+#populate table with given values, update the species of K.D. to human.
+#display names and iq of humans in dB.
 
 
 import sqlite3
